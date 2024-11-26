@@ -40,3 +40,14 @@ YOLOv8 (You Only Look Once, version 8) is one of the most advanced real-time obj
    ```bash
    git clone https://github.com/yourusername/yolov8-wrapper-finetuning.git
    cd yolov8-wrapper-finetuning
+
+2. Install the required dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+Ensure YOLOv8 is installed:
+
+bash
+Copy code
+pip install ultralytics
