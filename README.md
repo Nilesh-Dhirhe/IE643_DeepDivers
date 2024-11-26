@@ -1,3 +1,6 @@
+# Models 
+https://drive.google.com/drive/folders/16e6Akmd28js79GcLSfmTmfVB9UcGNwUK?usp=sharing
+
 # YOLOv8 Wrapper Class and Fine-Tuning
 
 This repository contains a Jupyter notebook demonstrating the implementation of a **wrapper class** for YOLOv8 and its **fine-tuning** for custom object detection tasks. The project utilizes Ultralytics' YOLOv8 model, providing streamlined methods for training, evaluation, and deployment.
