@@ -1,4 +1,4 @@
-# Models 
+# Model drive link
 https://drive.google.com/drive/folders/16e6Akmd28js79GcLSfmTmfVB9UcGNwUK?usp=sharing
 
 # YOLOv8 Wrapper Class and Fine-Tuning
