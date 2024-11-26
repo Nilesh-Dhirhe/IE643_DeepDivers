@@ -3,7 +3,9 @@
 This repository contains a Jupyter notebook demonstrating the implementation of a **wrapper class** for YOLOv8 and its **fine-tuning** for custom object detection tasks. The project utilizes Ultralytics' YOLOv8 model, providing streamlined methods for training, evaluation, and deployment.
 
 ---
-Link to the dataset: https://paperswithcode.com/dataset/ua-detrac
+Link to the dataset: 
+UA-DETRAC: https://paperswithcode.com/dataset/ua-detrac
+DAWN: https://paperswithcode.com/dataset/dawn
 
 ## Table of Contents
 
